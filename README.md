@@ -1,6 +1,6 @@
 # Latinos Out Loud
 
-[![Latinos Out Loud](images/logo.jpg)
+![Latinos Out Loud](images/logo.jpg)
 
 ## About
 
