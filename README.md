@@ -4,7 +4,7 @@
 
 ## About
 
-Simple script that downloads [Latinos Who Lunch](https://www.revolverpodcasts.com/shows/latinos-out-loud/).
+Simple script that downloads [Latinos Out Loud](https://www.revolverpodcasts.com/shows/latinos-out-loud/).
 
 ## Dependencies
 This is a `bash` script.
